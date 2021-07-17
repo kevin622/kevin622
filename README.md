@@ -4,7 +4,7 @@
 
 ## :construction_worker: 경력
 
-- 2019.06 ~ : 2020.06 연세대학교 데이터사이언스학회 DSL(Data Science Lab) 2기
+- 2019.07 ~ 2020.06 연세대학교 데이터사이언스학회 DSL(Data Science Lab) 2기
 - 2020.1 ~ 2020.2 : (주)제로투원파트너스 인턴
 - 2021.1 ~ : 삼성청년SW아카데미(SSAFY; Samsung SW Academy For Youth) 5기
 
