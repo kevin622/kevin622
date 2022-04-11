@@ -1,34 +1,38 @@
-# 박국현's Portfolio
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20Kook%20Hyun&fontSize=90&animation=twinkling)
 
-내가 제일 잘나가😎
+<h2 align="center">Tech Stack</h2>
 
-## :construction_worker: 약력
+<p align="center">Language/Frameworks I"ve ever tried. </p>
 
-- 2022.03 ~ : 한국과학기술원(KAIST) 김재철AI대학원 석사과정
-- 2022.01 ~ : 한국과학기술원(KAIST) 임재환 교수 연구실
-- 2021.01 ~ 2021.12 : 삼성청년SW아카데미(SSAFY) 5기(수료)
-    - Django 백엔드 서버 구축
-    - Vue 프런트엔드 서버 구축
-    - APS
-    - 1학기 프로젝트 최우수상
-    - 1학기 학업 우수상
-    - 2학기 서울지역 대표 수료
-- 2020.01 ~ 2020.02 : (주)제로투원파트너스 인턴
-- 2019.07 ~ 2020.06 : 연세대학교 데이터사이언스학회 DSL(Data Science Lab) 2기
-- 2015.03 ~ 2021.02 : 연세대학교 응용통계학과(졸업)
-- 2012.03 ~ 2015.02 : 압구정고등학교(졸업)
+<h3 align="center">Language</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-%23%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> 
+</p>
 
-## :mountain: 참여 대회
+<h3 align="center">Data Science / AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Gym-%230081A5?style=for-the-badge&logo=OpenAIGym&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBE00?style=for-the-badge&logo=Weights%20%26%20Biases&logoColor=white" /> 
+</p>
+<h3 align="center">Web Framework</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Vuetify-%231867C0?style=for-the-badge&logo=Vuetify&logoColor=white" /> 
+</p>
 
-- 2020 카카오 아레나 멜론 플레이리스트 예측 대회 참가, Gated CNN 학습
-- 2020 빅콘테스트 참가, 뉴럴넷 기반 추천시스템 학습
-- 2020 문화데이터 활용 경진대회 참가, 추천시스템(FM) 활용 보고서 작성
-- 2021 데이콘 비트트레이더 시즌 2 참가, 시계열에 딥러닝 모델 적용
 
-## 비고
-
-- SQLD
-- 토익 970
-- 토익 스피킹 2급
-- 삼성SW역량테스트 A형(모의) A+ 등급
-- [백준 등급](https://www.acmicpc.net/user/kevin622) 골드2
+<h2 align="center">About Me</h2>
+<p align="center">
+  <a href="https://kevin622.github.io/"><img src="https://img.shields.io/badge/MyPage-%23181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://velog.io/@kevin622"><img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
+  <a href="kevin622@yonsei.ac.kr"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
