@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20Kook%20Hyun&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Park%20Kook%20Hyun&fontSize=90&animation=twinkling)
 
 <h2 align="center">Tech Stack</h2>
 
