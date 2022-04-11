@@ -2,7 +2,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">Language/Frameworks I"ve ever tried. </p>
+<p align="center">Language/Frameworks I've ever tried. </p>
 
 <h3 align="center">Language</h3>
 <p align="center">
