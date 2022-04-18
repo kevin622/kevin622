@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" />  
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Vuetify-%231867C0?style=for-the-badge&logo=Vuetify&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </p>
 
 
