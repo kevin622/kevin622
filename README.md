@@ -37,3 +37,8 @@
   <a href="https://velog.io/@kevin622"><img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
   <a href="mailto:kevin622@yonsei.ac.kr"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <a href="https://solved.ac/kevin622/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin622" /></a>
+</p>
+
