@@ -15,8 +15,12 @@
 
 <h3 align="center">Data Science / AI</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20Gym-%230081A5?style=for-the-badge&logo=OpenAIGym&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBE00?style=for-the-badge&logo=Weights%20%26%20Biases&logoColor=white" /> 
 </p>
@@ -38,6 +42,7 @@
   <a href="mailto:kevin622@yonsei.ac.kr"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
+<h2 align="center">BOJ status</h2>
 <p align="center">
   <a href="https://solved.ac/kevin622/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin622" /></a>
 </p>
