@@ -5,7 +5,6 @@
   <a href="https://velog.io/@kevin622"><img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
   <a href="mailto:kevin622@yonsei.ac.kr"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-<hr>
 <h2 align="center">Tech Stack</h2>
 <p align="center">Language/Frameworks I've ever tried. </p>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr);">
@@ -44,7 +43,6 @@
     </p>
   </div>
 </div>
-<hr>
 <h2 align="center">Status</h2>
 
 <p align="center">
