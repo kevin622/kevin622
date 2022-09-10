@@ -16,6 +16,6 @@
 
 </div>
 <h2 align="center">Status</h2>
-<div align="center"><a href="https://solved.ac/kevin622/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin622" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin622&layout=compact&hide=jupyter+notebook" /></a><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kevin622&count_private=true&show_icons=true"></a>
+<div align="center"><a href="https://solved.ac/kevin622/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin622" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin622&layout=compact&hide=jupyter+notebook" /></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kevin622&count_private=true&show_icons=true"></a>
 </div>
 
