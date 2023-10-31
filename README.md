@@ -24,12 +24,7 @@
 
 |Backend Framework|Frontend Framework|Others|
 |:--:|:--:|:--:|
-|<p align="center"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white" /><img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white" /></p>|<p align="center"><img src="https://img.shields.io/badge/Vuejs-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Vuetify-%231867C0?style=for-the-badge&logo=Vuetify&logoColor=white" /><img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white"></p></p>|<p align="center"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" /><img src="https://img.shields.io/badge/ApacheJmeter-%23D22128?style=for-the-badge&logo=ApacheJmeter&logoColor=white" /><img src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white" /></p>|
-
-
-
-
-
+|<p align="center"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white" /><img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white" /><img src="https://img.shields.io/badge/Fastapi-%23009688?style=for-the-badge&logo=Fastapi&logoColor=white" /></p>|<p align="center"><img src="https://img.shields.io/badge/Vuejs-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Vuetify-%231867C0?style=for-the-badge&logo=Vuetify&logoColor=white" /><img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white"></p></p>|<p align="center"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" /><img src="https://img.shields.io/badge/ApacheJmeter-%23D22128?style=for-the-badge&logo=ApacheJmeter&logoColor=white" /><img src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white" /></p>|
 
 </div>
 <h2 align="center">Others</h2>
