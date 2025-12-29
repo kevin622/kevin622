@@ -6,8 +6,6 @@ _I am a developer who believes communication is more important than code._
 
 ## 이력서 Resume
 
-<iframe src="https://amusing-teller-12a.notion.site/ebd//fb5254a07dd54236a80b970971a7e55d" width="100%" height="200" frameborder="0" allowfullscreen />
-
 [![Resume Badge](https://img.shields.io/badge/My_Page-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=%23181717)](https://amusing-teller-12a.notion.site/fb5254a07dd54236a80b970971a7e55d)
 
 개인 이력서는 위 링크에서 확인하실 수 있습니다.
