@@ -4,6 +4,16 @@ _코딩보단 소통이 중요하다고 믿고 있는 개발자입니다._
 
 _I am a developer who believes communication is more important than code._
 
+## 이력서 Resume
+
+<iframe src="https://amusing-teller-12a.notion.site/ebd//fb5254a07dd54236a80b970971a7e55d" width="100%" height="200" frameborder="0" allowfullscreen />
+
+[![Resume Badge](https://img.shields.io/badge/My_Page-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=%23181717)](https://amusing-teller-12a.notion.site/fb5254a07dd54236a80b970971a7e55d)
+
+개인 이력서는 위 링크에서 확인하실 수 있습니다.
+
+You can check my personal resume at the link above.
+
 ## 기술 스택 Technical Stack
 
 ![Python Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=%233776AB)
@@ -18,13 +28,7 @@ I prefer working with **Python**.
 
 I often use the frameworks above, I prefer solving problems using standard libraries whenever possible.
 
-## 개인 블로그 & 이력서 Personal Blog & Resume
-
-[![Resume Badge](https://img.shields.io/badge/My_Page-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=%23181717)](https://amusing-teller-12a.notion.site/fb5254a07dd54236a80b970971a7e55d)
-
-개인 이력서는 위 링크에서 확인하실 수 있습니다.
-
-You can check my personal resume at the link above.
+---
 
 > 개인 블로그는 아래 링크에서 확인하실 수 있습니다. 기술 이야기보다는 책, 영화, 일상 이야기가 더 많습니다.
 
