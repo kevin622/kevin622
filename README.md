@@ -1,8 +1,8 @@
 # 박국현 Park Kook Hyun
 
-코딩보단 소통이 중요하다고 믿고 있는 개발자입니다.
+_코딩보단 소통이 중요하다고 믿고 있는 개발자입니다._
 
-I am a developer who believes that communication is more important than coding.
+_I am a developer who believes communication is more important than code._
 
 ## 기술 스택 Technical Stack
 
@@ -12,19 +12,19 @@ I am a developer who believes that communication is more important than coding.
 
 I prefer working with **Python**.
 
-아래 프레임워크들도 자주 사용하지만, 가능하면 기본 라이브러리로 문제를 해결하려고 노력합니다.
-
-Although I often use the frameworks below, I try to solve problems using the standard library whenever possible.
-
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=%23009688) ![Static Badge](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=%23FF4B4B) ![Static Badge](https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=LangChain&logoColor=white&labelColor=%231C3C3C)
+
+위 프레임워크들도 자주 사용하지만, 가능하면 기본 라이브러리로 문제를 해결하려고 노력합니다.
+
+I often use the frameworks above, I prefer solving problems using standard libraries whenever possible.
 
 ## 개인 블로그 & 이력서 Personal Blog & Resume
 
-개인 이력서는 아래 링크에서 확인하실 수 있습니다.
-
-You can check my personal resume at the link below.
-
 [![Resume Badge](https://img.shields.io/badge/My_Page-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=%23181717)](https://amusing-teller-12a.notion.site/fb5254a07dd54236a80b970971a7e55d)
+
+개인 이력서는 위 링크에서 확인하실 수 있습니다.
+
+You can check my personal resume at the link above.
 
 > 개인 블로그는 아래 링크에서 확인하실 수 있습니다. 기술 이야기보다는 책, 영화, 일상 이야기가 더 많습니다.
 
